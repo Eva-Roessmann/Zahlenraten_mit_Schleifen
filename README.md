@@ -1,5 +1,4 @@
 # Zahlenraten_mit_Schleifen
-# Zahlenratespiel
 
 ## Beschreibung
 
