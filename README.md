@@ -1,23 +1,28 @@
-# Zahlenraten_mit_Schleifen
+🎯 Zahlenratespiel
+📋 Projektinformationen
+Feld	Inhalt
+Projektname	Zahlenratespiel
+Klasse	1aAPC
+Schuljahr	2025/26
+Abgabedatum	19.05.2026
+Autor	Rößmann Eva
+Lehrer	G. Jarz
+Fach	Applikationsentwicklung
+📝 Projektbeschreibung
 
-## Beschreibung
+Das Zahlenratespiel ist eine einfache Konsolenanwendung, bei der eine zufällig generierte Zahl zwischen 1 und 100 erraten werden muss. Nach jedem Tipp erhält der Benutzer einen Hinweis, ob die gesuchte Zahl größer oder kleiner ist.
 
-Dieses Programm ist ein Zahlenratespiel.
-
-Das Programm erzeugt eine Zufallszahl zwischen 1 und 100. Anschließend kann der Benutzer Zahlen eingeben, um die richtige Zahl zu erraten.
-
-Nach jeder Eingabe wird angezeigt, ob die gesuchte Zahl größer oder kleiner ist.
-
-Wenn die richtige Zahl gefunden wurde, wird die Anzahl der benötigten Versuche ausgegeben.
-
-## Verwendete Konzepte
-
-- Variablen
-- Schleifen (while)
-- Verzweigungen (if)
-- Zufallszahlen (Random)
-- Benutzereingaben (Scanner)
-
-## Autorin
-
-Eva Rößmann
+Funktionen:
+Zufallszahl generieren: Erstellt eine Zahl zwischen 1 und 100.
+Benutzereingabe: Spieler gibt eigene Tipps ein.
+Hinweise: Ausgabe, ob die gesuchte Zahl größer oder kleiner ist.
+Versuchszähler: Erfasst die Anzahl der benötigten Versuche.
+Spielende: Meldung bei richtiger Eingabe.
+🛠️ Entwicklungsumgebung
+Verwendete Software & Tools
+Tool / Software	Version	Zweck
+IntelliJ IDEA	2025.3.4.1	Code-Editor & Entwicklung
+Java SDK	21+	Programmiersprache
+Markdown	-	Dokumentation
+Betriebssystem
+OS: Windows 11 / macOS / Linux
